@@ -1,0 +1,8 @@
+name = "saborinpic-api"
+main = "worker.js"
+compatibility_date = "2026-10-19"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "saborinpic-db"
+database_id = "fa2250b1-dd47-4077-b71d-b5f4fe25216f"
