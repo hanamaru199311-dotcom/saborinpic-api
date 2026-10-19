@@ -49,3 +49,4 @@ export default {async fetch(req,env){
   return fail('見つかりません',404);
  }catch(err){console.error('API error',err);return fail('サーバーに接続できません',503)}
 }};
+
